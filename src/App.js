@@ -1,9 +1,9 @@
 import logo from './logo.svg';
-import Example from './components/example';
+import WIP_Page from './components/WIP_Page'
 
 function App() {
   return (
-    < Example />
+    <WIP_Page/>
   );
 }
 
